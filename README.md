@@ -82,10 +82,10 @@ This project provides a comprehensive data pipeline solution to extract, transfo
  6. **Policy**: A set of permissions that allow you to access AWS services.
  7. **Requests**: A Python library that allows you to make HTTP requests.
  8. **S3fs**: A Python library that allows you to interact with Amazon S3.
- 9. **Documentation** Documented the setup and configuration steps for reproducibility.
+ 9. **Documentation**: Documented the setup and configuration steps for reproducibility.
 
  These key takeaways highlight the technical skills and knowledge applied in the project, showcasing my expertise in modern data engineering practices and the use of cloud services for scalable data solutions.
- I also added some images of me working in the AWS enviornment using some of the micro-servies.
+ I also added some images of me working in the AWS enviornment using some of the micro-services.
 
  # AWS Services #
  1. **GlueJob and Crawler**
