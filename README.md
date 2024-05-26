@@ -90,13 +90,13 @@ This project provides a comprehensive data pipeline solution to extract, transfo
  # AWS Services #
  1. **GlueJob and Crawler**
  
- ![gjob.PNG](assets%2Fgjob.png)
+ ![gjob.PNG](assets%2Fgjob.PNG)
  2. **Redshift Datawarehouse**
 
- ![redshift.PNG](assets%2Fredshift.png)
+ ![redshift.PNG](assets%2Fredshift.PNG)
 
  3. **Airflow Docker Container**
- ![projectsnippets.PNG](assets%2Fprojectsnippets.png)
+ ![projectsnippets.PNG](assets%2Fprojectsnippets.PNG)
 
  ## AWS Glue Policy
 
