@@ -200,5 +200,5 @@ Validate COPY Command: Ensure the syntax and parameters of the COPY command are 
 Data Format: Ensure the data in S3 is in the correct format and structure for Redshift to load.
 
 *Bonus*
-- I also added a folder called testing_scripts with some jupyter notebook and some toy code to show how I executed the functionalty of my code then just modularized for my airflow scheduler.
+- I also added a folder called testing_scripts with some jupyter notebook and some toy code to show how I executed the functionalty of my code then just modularized it for my airflow scheduler.
 - Stay Tuned Tableau Dashboard Coming Soon. 
